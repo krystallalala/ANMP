@@ -1,0 +1,1 @@
+2021/07/16 21:39:00 [error] 21#21: *2 open() "/www/localhost/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
