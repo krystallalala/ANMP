@@ -1,4 +1,5 @@
 # ANMP
+docker部署开发环境（Alpine + Nginx + MySQL + PHP-FPM）
 #### 关于使用
 ##### 1. 拷贝并命名配置文件 （Mac系统），启动：
 ```shell
